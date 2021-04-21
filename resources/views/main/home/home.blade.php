@@ -109,7 +109,7 @@
                                     <ul class="nav-menu">
                                         <!-- Home -->
                                         <li class="current-menu-item current_page_item menu-item-has-children">
-                                            <a href="#">Home</a>
+                                            <a href="#">Accueil</a>
                                             <ul class="sub-menu">
                                                 <li><a href="index.html">Home One</a></li>
                                                 <li class="active"><a href="index2.html">Home Two</a></li>
