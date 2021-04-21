@@ -56,7 +56,7 @@
                 </div>
             </div>
         </div>
-        <!--End preloader here -->  
+        <!--End preloader here -->
 
         <!--Header Start-->
         <header id="rs-header" class="transparent-header">
@@ -67,7 +67,7 @@
                         <div class="col-lg-6 col-sm-7 col-xs-12">
                             <div class="toolbar-contact">
                                 <ul>
-                                    <li><i class="fa fa-phone"></i><a href="tel:+123456789">(+123) 456789</a></li>                                    
+                                    <li><i class="fa fa-phone"></i><a href="tel:+123456789">(+123) 456789</a></li>
 
                                     <li><i class="fa fa-envelope-o"></i><a href="mailto:info@yourwebsite.com">info@yourwebsite.com</a></li>
                                 </ul>
@@ -119,7 +119,7 @@
                                             </ul>
                                         </li>
                                          <!-- End Home -->
-                                        <li class="menu-item-has-children"><a href="about-company.html">About Us</a>
+                                        <li class="menu-item-has-children"><a href="about-company.html">A Propos</a>
                                             <ul class="sub-menu">
                                                 <li><a href="about-company.html">About Our Company</a></li>
                                                 <li><a href="company-overview.html">Company Overview</a></li>
@@ -127,7 +127,7 @@
                                                 <li><a href="our-history-timeline.html">Our History Timeline</a></li>
                                                 <li><a href="management.html">Management</a></li>
                                             </ul>
-                                        </li>                                        
+                                        </li>
                                         <li class="menu-item-has-children"><a href="#">Services</a>
                                             <ul class="sub-menu">
                                                 <li><a href="services.html">Servics</a></li>
@@ -208,7 +208,7 @@
                                         <ul>
                                             <li ><a href="#" class="readon border white-color">CONTACT US</a></li>
                                         </ul>
-                                    </div>                                
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -221,15 +221,15 @@
                                     <h1 class="sl-title white-color">Best Consultant <br/>
                                         Service By Expert Team</h1>
                                     <div class="sl-desc white-color">
-                                        Maecenas volutpat consequat orci id consectetur 
+                                        Maecenas volutpat consequat orci id consectetur
                                         <br/>
-                                        namvulput quam turpis 
+                                        namvulput quam turpis
                                     </div>
                                     <div class="slider-botton">
                                         <ul>
                                             <li ><a href="#" class="readon border white-color">CONTACT US</a></li>
                                         </ul>
-                                    </div>                                
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -284,7 +284,7 @@
                         <div class="col-lg-7 col-md-7 col-sm-12 pr-md-65">
                             <div class="sec-title">
                                 <h4>About Us</h4>
-                                <h3>With 20 Years of Experience</h3>      
+                                <h3>With 20 Years of Experience</h3>
                             </div>
                             <p class="about-desc mt-5">Suspendisse ex neque, sollicitudin in velit eu, luctus gravida nunc. Nulla pul-vinar risus sed metus euismod sodales ut sed nisi. Nulla posuere suscipit finibus. Quisque place vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas. Nunc erat libero. Free online Lorem Ipsum dummy neque porro quisquam est</p>
                             <p>
@@ -329,14 +329,14 @@
             <!-- Calltoaction End -->
 
             <!-- Services Start -->
-            <section id="rs-services" class="rs-services services-carousel sec-spacer gray-color">  
+            <section id="rs-services" class="rs-services services-carousel sec-spacer gray-color">
                 <div class="container">
                     <div class="sec-title text-center">
                         <h3>What Kind Services We Offering</h3>
                         <p>
                             Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur<br/>
                             adipisci velit, sed quia non numquam eius modi
-                        </p>                     
+                        </p>
                     </div>
                     <div class="clfeatures">
                         <div class="row common-height clearfix">
@@ -358,7 +358,7 @@
                                                 <img src="{{ url('main/images/service/2.jpg')}}" alt="" >
                                                 <h5 class="overlay-feature-title">
                                                     <a href="#">
-                                                        Why User Experience Matters 
+                                                        Why User Experience Matters
                                                     </a>
                                                 </h5>
                                             </div>
@@ -403,7 +403,7 @@
                                                 <img src="{{ url('main/images/service/7.jpg')}}" alt="" >
                                                 <h5 class="overlay-feature-title">
                                                     <a href="#">
-                                                        Social media improve career 
+                                                        Social media improve career
                                                     </a>
                                                 </h5>
                                             </div>
@@ -458,7 +458,7 @@
                                             <div class="heading-block">
                                                 <h4 class="feature-title">
                                                     <a href="#">
-                                                        Why User Experience Matters 
+                                                        Why User Experience Matters
                                                     </a>
                                                 </h4>
                                                 <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis voluptatum del eniti atque corrupti quos dolores.</p>
@@ -534,7 +534,7 @@
                                             <div class="heading-block">
                                                 <h4 class="feature-title">
                                                     <a href="#">
-                                                        Social media improve career 
+                                                        Social media improve career
                                                     </a>
                                                 </h4>
                                                 <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis voluptatum del eniti atque corrupti quos dolores.</p>
@@ -632,27 +632,27 @@
                                         <div class="cl-skill-bar">
                                             <!-- Start Skill Bar -->
                                             <div class="skillbar-title">Financial Consulting</div>
-                                            <div class="skillbar" data-percent="68"> 
+                                            <div class="skillbar" data-percent="68">
                                                 <p class="skillbar-bar" style="width: 68%;"></p>
-                                                <span class="skill-bar-percent">68%</span> 
+                                                <span class="skill-bar-percent">68%</span>
                                             </div>
                                             <!-- Start Skill Bar -->
                                             <div class="skillbar-title">Marketing Consulting</div>
-                                            <div class="skillbar" data-percent="87"> 
+                                            <div class="skillbar" data-percent="87">
                                                 <p class="skillbar-bar" style="width: 87%;"></p>
-                                                <span class="skill-bar-percent">87%</span> 
+                                                <span class="skill-bar-percent">87%</span>
                                             </div>
                                             <!-- Start Skill Bar -->
                                             <div class="skillbar-title">Business Consulting</div>
-                                            <div class="skillbar" data-percent="80"> 
+                                            <div class="skillbar" data-percent="80">
                                                 <p class="skillbar-bar" style="width: 80%;"></p>
-                                                <span class="skill-bar-percent">80%</span> 
+                                                <span class="skill-bar-percent">80%</span>
                                             </div>
                                             <!-- Start Skill Bar -->
                                             <div class="skillbar-title">Risk Management</div>
-                                            <div class="skillbar mb-0" data-percent="87"> 
+                                            <div class="skillbar mb-0" data-percent="87">
                                                 <p class="skillbar-bar" style="width: 87%;"></p>
-                                                <span class="skill-bar-percent">87%</span> 
+                                                <span class="skill-bar-percent">87%</span>
                                             </div>
                                         </div>
                                     </div>
@@ -773,7 +773,7 @@
 									<div class="col-sm-6  wow fadeInUp" data-wow-duration=".7s" data-wow-delay="300ms">
 										<div class="rs-counter-list">
 											<i data-icon="C" class="icon"></i>
-											<h3 class="rs-counter">33028</h3>  
+											<h3 class="rs-counter">33028</h3>
 											<h4>Satisfied Clients</h4>
 										</div>
 									</div>
@@ -784,7 +784,7 @@
 									<div class="col-sm-6  wow fadeInUp" data-wow-duration=".9s" data-wow-delay="300ms">
 										<div class="rs-counter-list">
 											<i data-icon="P" class="icon"></i>
-											<h3 class="rs-counter">25</h3>                     
+											<h3 class="rs-counter">25</h3>
 											<h4>Years of Service</h4>
 										</div>
 									</div>
@@ -793,7 +793,7 @@
 									<div class="col-sm-6  wow fadeInUp" data-wow-duration="1.2s" data-wow-delay="300ms">
 										<div class="rs-counter-list">
 											<i data-icon="&#xe001;" class="icon"></i>
-											<h3 class="rs-counter">339</h3> 
+											<h3 class="rs-counter">339</h3>
 											<h4 class="last">Professionals</h4>
 										</div>
 									</div>
@@ -955,7 +955,7 @@
                         <h3>Our Pricing Plans</h3>
                         <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur<br/>
                          adipisci velit, sed quia non numquam eius modi
-                        </p>      
+                        </p>
                     </div>
                     <div class="row">
                         <div class="col-md-4 col-sm-6">
@@ -1093,7 +1093,7 @@
                         <h3>Our Portfolio</h3>
                         <p>CNeque porro quisquam est, qui dolorem ipsum quia dolor sit amet,       consectetur<br/>
                             adipisci velit, sed quia non numquam eius modi
-                        </p>      
+                        </p>
                     </div>
                     <div class="portfolio-filter">
                         <button class="active" data-filter="*">ALL PROJECT</button>
@@ -1134,7 +1134,7 @@
                                                     <i class="fa fa-search"></i>
                                                 </a>
                                                 <h4 class="p-title"><a href="portfolio-details.html">Project Name</a></h4>
-                                                <p class="p-desc">Lorem Ipsum is not simply random text</p> 
+                                                <p class="p-desc">Lorem Ipsum is not simply random text</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1152,7 +1152,7 @@
                                                     <i class="fa fa-search"></i>
                                                 </a>
                                                 <h4 class="p-title"><a href="portfolio-details.html">Project Name</a></h4>
-                                                <p class="p-desc">Lorem Ipsum is not simply random text</p>  
+                                                <p class="p-desc">Lorem Ipsum is not simply random text</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1379,13 +1379,13 @@
                         </div>
                     </div>
                 </div>
-            </section>           
+            </section>
             <!-- Testimonial Start -->
 
             <!-- Blog Start -->
             <section id="rs-blog" class="rs-blog pt-100 pb-70">
                 <div class="container">
-                    
+
                     <div class="sec-title text-center">
                         <h3>Our Latest Blogs</h3>
                         <p>
@@ -1393,7 +1393,7 @@
                             adipisci velit, sed quia non numquam eius modi
                         </p>
                     </div>
-                    
+
                     <div class="blog-carousel owl-carousel owl-navigation-yes">
                         <div class="blog-item">
                             <div class="blog-img">
@@ -1406,7 +1406,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                </div>                            
+                                </div>
                             </div>
                             <div class="blog-meta">
                                 <div class="blog-date">
@@ -1425,7 +1425,7 @@
                                 <a href="blog-details.html">Business Growth and Maturation</a>
                                 <p>At vero eos et accusamus et odio dignissimos ducimus qui blanditiis praesentium del eniti atque corrupti quos dolores.</p>
                             </div>
-                        </div>                            
+                        </div>
                         <div class="blog-item">
                             <div class="blog-img">
                                 <img src="{{ url('main/images/blog/2.jpg')}}" alt="Blog Image">
@@ -1456,7 +1456,7 @@
                                 <a href="blog-details.html">Company Anual Tour</a>
                                 <p>At vero eos et accusamus et odio dignissimos ducimus qui blanditiis praesentium del eniti atque corrupti quos dolores.</p>
                             </div>
-                        </div>                            
+                        </div>
                         <div class="blog-item">
                             <div class="blog-img">
                                 <img src="{{ url('main/images/blog/3.jpg')}}" alt="Blog Image">
@@ -1518,7 +1518,7 @@
                                 <a href="blog-details.html">Company Anual Tour</a>
                                 <p>At vero eos et accusamus et odio dignissimos ducimus qui blanditiis praesentium del eniti atque corrupti quos dolores.</p>
                             </div>
-                        </div>                            
+                        </div>
                         <div class="blog-item">
                             <div class="blog-img">
                                 <img src="{{ url('main/images/blog/5.jpg')}}" alt="Blog Image">
@@ -1549,7 +1549,7 @@
                                 <a href="blog-details.html">Perfect Work Zone</a>
                                 <p>At vero eos et accusamus et odio dignissimos ducimus qui blanditiis praesentium del eniti atque corrupti quos dolores.</p>
                             </div>
-                        </div>                            
+                        </div>
                         <div class="blog-item">
                             <div class="blog-img">
                                 <img src="{{ url('main/images/blog/6.jpg')}}" alt="Blog Image">
@@ -1609,8 +1609,8 @@
                 </div>
             </div>
             <!-- Partner End -->
-        </div> 
-        
+        </div>
+
         <!-- Footer Start -->
         <footer id="rs-footer" class="rs-footer">
             <div class="footer-top">
@@ -1695,7 +1695,7 @@
                                         <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                         <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
                                     </ul>
-                                </div>                                
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1736,13 +1736,13 @@
         <!-- magnific popup -->
         <script src="{{ url('main/js/jquery.magnific-popup.min.js')}}"></script>
         <!-- Nivo slider js -->
-        <script src="{{ url('main/inc/custom-slider/js/jquery.nivo.slider.js')}}"></script>       
+        <script src="{{ url('main/inc/custom-slider/js/jquery.nivo.slider.js')}}"></script>
         <!-- plugins js -->
-        <script src="{{ url('main/js/plugins.js')}}"></script>       
+        <script src="{{ url('main/js/plugins.js')}}"></script>
         <!-- rsmenu js -->
         <script src="{{ url('main/js/rsmenu-main.js')}}"></script>
         <!-- one page js -->
-        <script src="{{ url('main/js/jquery.singlePageNav.min.js')}}"></script> 
+        <script src="{{ url('main/js/jquery.singlePageNav.min.js')}}"></script>
         <!-- main js -->
         <script src="{{ url('main/js/main.js')}}"></script>
     </body>
