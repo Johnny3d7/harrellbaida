@@ -44,7 +44,7 @@
             <div class="row">
                 <div class="col-sm-3">
                     <div class="logo-area">
-                        <a href="index.html"><img src="{{ url('main/images/logo.png') }}" alt="logo"></a>
+                        <a href="index.html"><img style="height:80px; width:auto;margin-top:5px;" src="{{ url('main/images/baida/logo.png') }}" alt="logo"></a>
                     </div>
                 </div>
                 @include('main.partials.menu')

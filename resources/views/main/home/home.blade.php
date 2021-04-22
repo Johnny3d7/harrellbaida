@@ -15,8 +15,10 @@
             <div id="rs-slider" class="rs-slider">
                 <div class="bend niceties">
                     <div id="nivoSlider" class="slides">
-                        <img src="{{ url('main/images/slider/slide_3.jpg')}}" alt="" title="#slide-1" />
-                        <img src="{{ url('main/images/slider/slide_4.jpg')}}" alt="" title="#slide-2" />
+                        <img src="{{ url('main/images/baida/v1.jpeg')}}" alt="" title="#slide-1" />
+                        <img src="{{ url('main/images/baida/v3.jpg')}}" alt="" title="#slide-2" />
+                        <img src="{{ url('main/images/baida/v8.jpg')}}" alt="" title="#slide-3" />
+                        <img src="{{ url('main/images/baida/v6.jpg')}}" alt="" title="#slide-4" />
                     </div>
                     <!-- Slide 1 -->
                     <div id="slide-1" class="slider-direction">
@@ -32,7 +34,7 @@
                                         Best Opportunity For Growing Business</div>
                                     <div class="slider-botton">
                                         <ul>
-                                            <li ><a href="#" class="readon border white-color">CONTACT US</a></li>
+                                            <li ><a href="#" class="readon border white-color">CONTACTEZ-NOUS</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -53,7 +55,49 @@
                                     </div>
                                     <div class="slider-botton">
                                         <ul>
-                                            <li ><a href="#" class="readon border white-color">CONTACT US</a></li>
+                                            <li ><a href="#" class="readon border white-color">CONTACTEZ-NOUS</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Slide 3 -->
+                    <div id="slide-3" class="slider-direction">
+                        <div class="display-table">
+                            <div class="display-table-cell">
+                                <div class="container">
+                                    <h1 class="sl-title white-color">Best Consultant <br/>
+                                        Service By Expert Team</h1>
+                                    <div class="sl-desc white-color">
+                                        Maecenas volutpat consequat orci id consectetur
+                                        <br/>
+                                        namvulput quam turpis
+                                    </div>
+                                    <div class="slider-botton">
+                                        <ul>
+                                            <li ><a href="#" class="readon border white-color">CONTACTEZ-NOUS</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Slide 4 -->
+                    <div id="slide-4" class="slider-direction">
+                        <div class="display-table">
+                            <div class="display-table-cell">
+                                <div class="container">
+                                    <h1 class="sl-title white-color">Best Consultant <br/>
+                                        Service By Expert Team</h1>
+                                    <div class="sl-desc white-color">
+                                        Maecenas volutpat consequat orci id consectetur
+                                        <br/>
+                                        namvulput quam turpis
+                                    </div>
+                                    <div class="slider-botton">
+                                        <ul>
+                                            <li ><a href="#" class="readon border white-color">CONTACTEZ-NOUS</a></li>
                                         </ul>
                                     </div>
                                 </div>
