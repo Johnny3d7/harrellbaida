@@ -17,5 +17,22 @@ use Illuminate\Support\Facades\Route;
     return view('welcome');
 });*/
 
-
+//Accueil
 Route::get('/','Main\HomeController@index')->name('home');
+
+//Services
+Route::get('services','Main\ServiceController@index')->name('services');
+
+//Contact
+Route::get('contact','Main\ContactController@index')->name('contact');
+
+//Qui sommes nous
+Route::get('presentation','Main\QuisnousController@index')->name('presentation');
+
+Route::get('valeurs-ethique','Main\QuisnousController@valeurEthique')->name('valeurs-ethique');
+
+//Boutique
+Route::get('boutique','Main\BoutiqueController@index')->name('boutique');
+
+//Galerie
+Route::get('galerie','Main\GalerieController@index')->name('galerie');

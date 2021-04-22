@@ -63,7 +63,7 @@
                     <h1 class="page-title">@yield('page-title')</h1>
                     <ul>
                         <li>
-                            <a class="active" href="index.html">Accueil</a>
+                            <a class="active" href="{{ route('home') }}">Accueil</a>
                         </li>
                         <li>@yield('page-title')</li>
                     </ul>
