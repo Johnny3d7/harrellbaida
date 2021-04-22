@@ -31,6 +31,8 @@ Route::get('presentation','Main\QuisnousController@index')->name('presentation')
 
 Route::get('valeurs-ethique','Main\QuisnousController@valeurEthique')->name('valeurs-ethique');
 
+Route::get('notre-equipe','Main\QuisnousController@equipe')->name('equipe');
+
 //Boutique
 Route::get('boutique','Main\BoutiqueController@index')->name('boutique');
 

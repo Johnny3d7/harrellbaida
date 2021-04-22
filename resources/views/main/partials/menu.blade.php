@@ -5,23 +5,25 @@
             <ul class="nav-menu">
                 <!-- Home -->
                 <li class="current-menu-item current_page_item menu-item-has-children">
-                    <a href="{{ route('home') }}">Accueil</a>
+                    <a href="{{ route('home') }}" class="textmenu">Accueil</a>
                 </li>
                  <!-- End Home -->
-                <li class="menu-item-has-children"><a href="{{ route('presentation') }}">Qui sommes nous</a>
+                <li class="menu-item-has-children"><a href="{{ route('presentation') }}" class="textmenu">Qui sommes nous</a>
                     <ul class="sub-menu">
                         <li><a href="{{ route('presentation') }}">Présentation</a></li>
                         <li><a href="{{ route('valeurs-ethique') }}">Valeurs & Ethique</a></li>
+                        <li><a href="{{ route('equipe') }}">Notre équipe</a></li>
+
                     </ul>
                 </li>                                        
-                <li class="menu-item-has-children"><a href="{{ route('services') }}">Services</a>
+                <li class="menu-item-has-children"><a href="{{ route('services') }}" class="textmenu">Services</a>
                     <ul class="sub-menu">
                         <li><a href="{{ route('services') }}">Service 1</a></li>
                         <li><a href="{{ route('services') }}">Service 2</a></li>
                         <li><a href="{{ route('services') }}">Service 3</a></li>
                     </ul>
                 </li>
-                <li class="menu-item-has-children"><a href="#">Galerie</a>
+                <li class="menu-item-has-children"><a href="{{ route('galerie') }}" class="textmenu">Galerie</a>
                     {{-- <ul class="sub-menu">
                         <li><a href="portfolio.html">Portfolio</a></li>
                         <li><a href="portfolio-details.html">Portfolio Details</a></li>
@@ -59,7 +61,7 @@
                 </li>
                 <li><a href="testimonial.html">Testimonial</a></li> --}}
                 
-                <li> <a href="{{ route('contact') }}">Contact</a> </li>
+                <li> <a href="{{ route('contact') }} " class="textmenu">Contact</a> </li>
             </ul>
        </nav>
    </div>

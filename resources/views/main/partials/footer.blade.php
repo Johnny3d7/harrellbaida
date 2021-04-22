@@ -2,10 +2,10 @@
     <div class="footer-top">
         <div class="container">
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="about-widget">
-                        <img src="{{ url('main/images/logo-2.png')}}" alt="Footer Logo">
-                        <p>We create Premium Html Template for more than three years. Our team goal to reunite the elegance.</p>
+                        <img src="{{ url('main/images/baida/logoblanc.png')}}" style="height: 120px;width:auto;" alt="Footer Logo">
+                        <p>"" Le développement durable et le changement climatique sont les de côté de la même pièce "". <br><strong>BAN KI-MOON</strong></p>
                         <ul class="footer-address">
                             <li><i class="fa fa-phone"></i><a href="#">123-456-789</a></li>
                             <li><i class="fa fa-envelope-o"></i><a href="#">info@yourdmain.com </a></li>
@@ -13,7 +13,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-3">
+                {{-- <div class="col-md-3">
                     <h5 class="footer-title">RECENT POSTS</h5>
                     <div class="recent-post-widget">
                         <div class="post-item">
@@ -37,27 +37,27 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-3">
-                    <h5 class="footer-title">OUR SITEMAP</h5>
+                </div> --}}
+                <div class="col-md-4">
+                    <h5 class="footer-title">Liens utiles</h5>
                     <ul class="sitemap-widget">
-                        <li class="active"><a href="index.html">Home Page</a></li>
-                        <li><a href="about-company.html">About Us</a></li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
-                        <li><a href="blog.html">Blog Posts</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li class="active"><a href="index.html">Accueil</a></li>
+                        <li><a href="about-company.html">Présentation</a></li>
+                        <li><a href="portfolio.html">Galerie</a></li>
+                        <li><a href="blog.html"></a>Services</li>
+                        <li><a href="contact.html">Contact </a></li>
                     </ul>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <h5 class="footer-title">Newsletter</h5>
                     <!-- Newsletter Start -->
                     <div class="news-info">
-                        <p class="news-note white-color">Email newsletters are a powerful tool for communicating with your consumers, which is why there are so many of them out there. So, with all of that competition,</p>
+                        <p class="news-note white-color">Inscrivez-vous si vous voulez recevoir les informations de nos dernières activités</p>
                     </div>
                     <form class="news-form footer-form">
-                        <input type="text" class="form-input" placeholder="Enter Your Email">
+                        <input type="text" class="form-input" placeholder="Entrez votre email">
                         <button type="submit" class="form-button">
-                            Send
+                            Envoyez
                         </button>
                     </form>
                 </div>
@@ -69,7 +69,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6">
                     <div class="copyright">
-                        <p>&copy; 2021 <a href="#">Your Company Name</a>. All Rights Reserved.</p>
+                        <p>&copy; 2021 <a href="#">Baida Engineering</a>. Tous droits réservés.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
