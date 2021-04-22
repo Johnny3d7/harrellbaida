@@ -1,4 +1,13 @@
-<header id="rs-header" class="transparent-header">
+@extends('main.main')
+
+@section('stylesheets')
+    
+@endsection
+
+@section('content')
+
+<!--Header Start-->
+<header id="rs-header">
     <!-- Toolbar Start -->
     <div class="toolbar-area hidden-sm hidden-xs">
         <div class="container">
@@ -34,11 +43,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">
-                    <div class="logo-area hidden-sm hidden-xs">
-                        <a href="index.html"><img src="{{ url('main/images/logo-2.png')}}" alt="logo"></a>
-                    </div>
-                    <div class="logo-area hidden-lg hidden-md">
-                        <a href="index.html"><img src="{{ url('main/images/logo.png')}}" alt="logo"></a>
+                    <div class="logo-area">
+                        <a href="index.html"><img src="{{ url('main/images/logo.png') }}" alt="logo"></a>
                     </div>
                 </div>
                 @include('main.partials.menu')
@@ -47,3 +53,30 @@
     </div>
     <!-- Header Menu End -->
 </header>
+<!--Header End-->
+<!-- Breadcrumbs Start -->
+<div class="rs-breadcrumbs sec-spacer sec-color">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="breadcrumbs-inner">
+                    <h1 class="page-title">@yield('page-title')</h1>
+                    <ul>
+                        <li>
+                            <a class="active" href="index.html">Accueil</a>
+                        </li>
+                        <li>@yield('page-title')</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Breadcrumbs End -->
+@yield('sub-content')
+
+@endsection
+
+@section('javascript')
+    
+@endsection
