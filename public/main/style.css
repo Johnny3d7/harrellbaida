@@ -7652,6 +7652,10 @@ div#rs-partner .partner-item img {
   .ml-10 {
     margin-left: 10px;
   }
+  #logop, #logosec{
+    margin-top: 8px;
+    padding-bottom: 5px;
+  }
 }
 @media only screen and (max-width: 991px) {
   body #rs-header .menu-area .rs-menu ul li {

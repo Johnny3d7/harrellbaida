@@ -821,15 +821,18 @@
 <script>
     $(document).ready(function(){
     $("#rs-header.transparent-header .menu-area .rs-menu ul li > a").css("color", "#ffffff");
+    $("#logop").attr("src", "{{ url('main/images/baida/logoblanc.png')}}");
     $(window).scroll(function(){
      var scroll = $(window).scrollTop();
        if(scroll>120){
         $("#rs-header.transparent-header .menu-area .rs-menu ul li > a").css("color", "#575656");
+        $("#logop").attr("src", "{{ url('main/images/baida/logo.png')}}");
         console.log("scroll");
          }
          else {
             console.log("scrolling");
         $("#rs-header.transparent-header .menu-area .rs-menu ul li > a").css("color", "#ffffff");
+        $("#logop").attr("src", "{{ url('main/images/baida/logoblanc.png')}}");
          }
         });
      });
