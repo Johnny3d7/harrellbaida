@@ -1,11 +1,11 @@
 @extends('main.partials.otherlayout')
 
 @section('stylesheets')
-    
+
 @endsection
 
 @section('page-title')
-Notre équipe  
+Notre équipe
 @endsection
 
 @section('sub-content')
@@ -14,9 +14,9 @@ Notre équipe
     <div class="container">
         <div class="sec-title text-center">
             <h3>Notre équipe</h3>
-            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur<br>
-                adipisci velit, sed quia non numquam eius modi
-            </p>                     
+            <p>Nous disposons d'une équipe extraordinaire, capable de relever
+                les grands défis du secteur et d'asseoir notre positionnement international
+            </p>
         </div>
     </div>
     <div class="container">
@@ -34,14 +34,14 @@ Notre équipe
                     <div class="box-section">
                         <div class="box-text">
                             <div class="box-title">
-                                <h4><a href="team-details.html">Stuard Bloom</a></h4>
-                                <h5>Executive Vice President</h5>
-                            </div>				    				
-                            <div class="social-icons"> 
-                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                <h4><a href="team-details.html">BALLO BI HEBER ESAIE</a></h4>
+                                <h5>Gérant</h5>
+                            </div>
+                            <div class="social-icons">
+                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
                                 <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
-                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a> 
+                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div>
                     </div>
@@ -51,7 +51,7 @@ Notre équipe
                 <div class="single-team-member">
                     <div class="image-section">
                         <img src="{{ url('main/images/leadership/2.jpg') }}" alt="">
-                        <div class="overlay-section">	
+                        <div class="overlay-section">
                             <div class="detail-link">
                                   <a href="team-details.html"><i class="fa fa-link"></i></a>
                               </div>
@@ -60,14 +60,14 @@ Notre équipe
                     <div class="box-section">
                         <div class="box-text">
                             <div class="box-title">
-                                <h4><a href="team-details.html">Peter Thugs</a></h4>
-                                <h5>Chief Financial Officer</h5>
-                            </div>				    				
-                            <div class="social-icons"> 
-                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                <h4><a href="team-details.html">BALLO KAGNECHE</a></h4>
+                                <h5>Responsable Technique</h5>
+                            </div>
+                            <div class="social-icons">
+                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
                                 <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
-                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a> 
+                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@ Notre équipe
                 <div class="single-team-member">
                     <div class="image-section">
                         <img src="{{ url('main/images/leadership/3.jpg') }}" alt="">
-                        <div class="overlay-section">	
+                        <div class="overlay-section">
                             <div class="detail-link">
                                   <a href="team-details.html"><i class="fa fa-link"></i></a>
                               </div>
@@ -86,14 +86,14 @@ Notre équipe
                     <div class="box-section">
                         <div class="box-text">
                             <div class="box-title">
-                                <h4><a href="team-details.html">Stefen Glory</a></h4>
-                                <h5>Chief Information Officer</h5>
-                            </div>				    				
-                            <div class="social-icons"> 
-                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                <h4><a href="team-details.html">KOFFI HUBERT</a></h4>
+                                <h5>Responsable Administratif et Financier</h5>
+                            </div>
+                            <div class="social-icons">
+                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
                                 <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
-                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a> 
+                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div>
                     </div>
@@ -103,7 +103,7 @@ Notre équipe
                 <div class="single-team-member">
                     <div class="image-section">
                         <img src="{{ url('main/images/leadership/4.jpg') }}" alt="">
-                        <div class="overlay-section">	
+                        <div class="overlay-section">
                             <div class="detail-link">
                                   <a href="team-details.html"><i class="fa fa-link"></i></a>
                               </div>
@@ -112,19 +112,103 @@ Notre équipe
                     <div class="box-section">
                         <div class="box-text">
                             <div class="box-title">
-                                <h4><a href="team-details.html">William Johnson</a></h4>
-                                <h5>Chairman & CEO</h5>
-                            </div>				    				
-                            <div class="social-icons"> 
-                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a> 
-                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a> 
+                                <h4><a href="team-details.html">LOULOU JACQUES</a></h4>
+                                <h5>Responsable Marketing Commercial</h5>
+                            </div>
+                            <div class="social-icons">
+                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
                                 <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
-                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a> 
+                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+
+            <div class="col-md-6">
+                <div class="single-team-member">
+                    <div class="image-section">
+                        <img src="{{ url('main/images/leadership/3.jpg') }}" alt="">
+                        <div class="overlay-section">
+                            <div class="detail-link">
+                                  <a href="team-details.html"><i class="fa fa-link"></i></a>
+                              </div>
+                        </div>
+                    </div>
+                    <div class="box-section">
+                        <div class="box-text">
+                            <div class="box-title">
+                                <h4><a href="team-details.html">BALLO BI TOUVOLY</a></h4>
+                                <h5>Assistant de Direction</h5>
+                            </div>
+                            <div class="social-icons">
+                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="single-team-member">
+                    <div class="image-section">
+                        <img src="{{ url('main/images/leadership/3.jpg') }}" alt="">
+                        <div class="overlay-section">
+                            <div class="detail-link">
+                                  <a href="team-details.html"><i class="fa fa-link"></i></a>
+                              </div>
+                        </div>
+                    </div>
+                    <div class="box-section">
+                        <div class="box-text">
+                            <div class="box-title">
+                                <h4><a href="team-details.html">KOUADIO GASTON</a></h4>
+                                <h5>Superviseur HA</h5>
+                            </div>
+                            <div class="social-icons">
+                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="single-team-member">
+                    <div class="image-section">
+                        <img src="{{ url('main/images/leadership/3.jpg') }}" alt="">
+                        <div class="overlay-section">
+                            <div class="detail-link">
+                                  <a href="team-details.html"><i class="fa fa-link"></i></a>
+                              </div>
+                        </div>
+                    </div>
+                    <div class="box-section">
+                        <div class="box-text">
+                            <div class="box-title">
+                                <h4><a href="team-details.html">OULAI CELESTIN</a></h4>
+                                <h5>Superviseur BTP</h5>
+                            </div>
+                            <div class="social-icons">
+                                <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
+                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
     </div>
 </div>
@@ -132,5 +216,5 @@ Notre équipe
 @endsection
 
 @section('javascript')
-    
+
 @endsection
