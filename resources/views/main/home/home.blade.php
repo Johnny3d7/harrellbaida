@@ -1,7 +1,7 @@
 @extends('main.main')
 
 @section('stylesheets')
-    
+
 @endsection
 
 @section('content')
@@ -156,10 +156,13 @@
                                 <h4>Baida Engineering</h4>
                                 <h3>Le sceau de l'expertise</h3>
                             </div>
-                            <p class="about-desc mt-5">Suspendisse ex neque, sollicitudin in velit eu, luctus gravida nunc. Nulla pul-vinar risus sed metus euismod sodales ut sed nisi. Nulla posuere suscipit finibus. Quisque place vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas. Nunc erat libero. Free online Lorem Ipsum dummy neque porro quisquam est</p>
-                            <p>
-                                It uses a dictionary of over 200 Latin words, combined with a handful of model view structures, to generate Lorem Ipsum which looks reasonable. At vero eos et iusto odio dignissimos ducimus qui blanditiis voluptatum del eniti atque.
+                            <p class="about-desc mt-5">Baida Engineering SARL est une entreprise qui a pour coeur de metier l'accès à l'eau,
+                                la sauvegarde de l'environnement et de developpement durable. Elle intervient également dans l'import-export
+                                des équipements hydrauliques (pompes solaires LORENTZ, ...etc.) et dans le domaine des bâtiments et des Travaux Publics.
+                                Elle est composée d'un personnel hautement qualifiés, expérimenté et apte à garantie un travail de qualité à coût
+                                raisonnable dans un delai convenu avec le client.
                             </p>
+
                             <div class="signature-text">
                                 <p class="sign-title">-Henry James</p>
                                 <span class="sign-subtitle">CEO, Your Company</span>
@@ -176,12 +179,12 @@
             </section>
             <!-- About Us End -->
             <!-- HOW WE WORK Start -->
-            
+
             <div class="how-we-work defult-style gray-color pt-100 pb-70">
                 <div class="container">
                     <div class="sec-title text-center">
                         <h3>Nos domaines d'activités</h3>
-                        <h4 style="color: #3aaa35">Travaux</h4>      
+                        <h4 style="color: #3aaa35">Travaux</h4>
                     </div>
                 </div>
                 <div class="container">
@@ -195,7 +198,8 @@
                                     <div class="work-gallery-caption">
                                         <h4><a href="#">Amenagement Hydro-agricole</a></h4>
                                         <p>
-                                           Duis eleifend molestie leo, at mollis eros rutrum sit amet. Nam venenatis enim at magna euisei mod congue Mode.
+                                           Irrigation Agricole (gouttes à gouttes) ou par canaux à ciel ouvert.
+                                           Cultures Hors sol.
                                         </p>
                                     </div>
                                 </div>
@@ -208,7 +212,8 @@
                                     <div class="work-gallery-caption">
                                         <h4><a href="#">Import-Export</a></h4>
                                         <p>
-                                            Duis eleifend molestie leo, at mollis eros rutrum sit amet. Nam venenatis enim at magna euisei mod congue Mode.
+                                            Import-export des pompes solaires LORENTZ.
+                                            Import-export d'autres équipements hydrauliques et d'appareils géophysiques.
                                         </p>
                                     </div>
                                 </div>
@@ -221,14 +226,15 @@
                                     <div class="work-gallery-caption">
                                         <h4><a href="#">Bâtiments et travaux public</a></h4>
                                         <p>
-                                            Duis eleifend molestie leo, at mollis eros rutrum sit amet. Nam venenatis enim at magna euisei mod congue Mode.
+                                            Travaux de génie Civil.
+                                            Travaux des voiries et réseaux divers (VRD)
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-4 col-sm-6">
+                            <div class="col-md-6 col-sm-6">
                                 <div class="work-column">
                                     <div class="common-box">
                                         <img src="{{ url('main/images/work/1.jpg') }}" alt="">
@@ -236,12 +242,12 @@
                                     <div class="work-gallery-caption">
                                         <h4><a href="#">Assainissement</a></h4>
                                         <p>
-                                           Duis eleifend molestie leo, at mollis eros rutrum sit amet. Nam venenatis enim at magna euisei mod congue Mode.
+                                           Travaux de réalisation de réseaux d'assainissement.
                                         </p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6">
+                            <div class="col-md-6 col-sm-6">
                                 <div class="work-column">
                                     <div class="common-box">
                                         <img src="{{ url('main/images/work/2.jpg') }}" alt="">
@@ -249,12 +255,13 @@
                                     <div class="work-gallery-caption">
                                         <h4><a href="#">Alimentation en eau potable (AEP)</a></h4>
                                         <p>
-                                            Duis eleifend molestie leo, at mollis eros rutrum sit amet. Nam venenatis enim at magna euisei mod congue Mode.
+                                            Travaux de Forage, d'Hydraulique Villageoise (HV), d'Hydraulique Villageoise Ameliorée (HVA)
+                                            et d'Hydraulique Urbaine (HU)
                                         </p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 hidden-sm">
+                            </div> <br>
+                          <!--  <div class="col-md-4 col-sm-6 hidden-sm">
                                 <div class="work-column">
                                     <div class="common-box">
                                         <img src="{{ url('main/images/work/3.jpg') }}" alt="">
@@ -266,7 +273,7 @@
                                         </p>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -277,7 +284,7 @@
                 <div class="container">
                     <div class="sec-title text-center">
                         <h3>Domaines de compétences</h3>
-                        <h4 style="color: #3aaa35">Etudes</h4>      
+                        <h4 style="color: #3aaa35">Etudes</h4>
                     </div>
                 </div>
                 <div class="container">
@@ -289,7 +296,11 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Prospection Géophysique</a></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur ex quis maximus. Mauris vel diam.</p>
+                                    <p>Implantation de Forage d'eau : Localisation des aquifères en milieu cristallin et en milieu sédimentaire
+                                        puis identification des sites favorables à la réalisation de forage positifs. <br>
+                                        Investigations environnementales : Sondages des cartographies des couches géologiques souterraines à une profondeur
+                                        d'investigation de 400m; Etude du niveau du socle; Etudes des couches argileuses souterraines; etc...
+                                    </p>
                                 </div>
                             </div>
                             <div class="services-item">
@@ -298,17 +309,21 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Alimentation en eau potable</a></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur ex quis maximus. Mauris vel diam.</p>
+                                    <p>Etudes et conseils des projets d'alimentations en eau potable (AEP): Conception et dimensionnement de reseaux AEP;
+                                        Suivi et contrôle des travaux d'AEP, d'Hydraulique villageoise ameliorée (HVA) et d'Hydraulique urbaine (HU)
+                                    </p>
                                 </div>
                             </div>
-                            <div class="services-item">                              
+                            <div class="services-item">
 								<div class="service-mid-icon left">
 									<a href="#"><span class="service-mid-icon-container"><i data-icon=">" class="icon"></i></span></a>
 								</div>
 								<div class="services-desc">
 									<h4 class="services-title"><a href="services-details.html">Assainissement</a></h4>
-									<p>Lorem ipsum dolor sit amet, consectetur ex quis maximus. Mauris vel diam.</p>
-								</div> 
+									<p>Etudes et conseils des projets d'assainissements : Conception et dimensionnement de réseau d'assainissement,
+                                        suiviet contrôles des travaux.
+                                    </p>
+								</div>
 							</div>
                         </div>
                         <div class="col-md-4 col-sm-12 text-center hidden-sm hidden-xs">
@@ -323,7 +338,13 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Environnement et développement durable</a></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur ex quis maximus. Mauris vel diam.</p>
+                                    <p>Evaluations environnementales et social, Etude d'impact environnemental et social,
+                                        Management environnemental (Certifiacation ISO 14001) <br>
+                                        Developpement durable : Objectifs de developpement durable, politique publiques de developpement durable,
+                                        economie bleu, économie verte, économie circulaire, etc... <br>
+                                        Changement Climatique : Inventaire de gaz à effet de serre, atténuation, adaptation au changement climatique,
+                                        financements climatiques, etc...
+                                    </p>
                                 </div>
                             </div>
                             <div class="services-item">
@@ -332,19 +353,23 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Bâtiment et travaux public</a></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur ex quis maximus. Mauris vel diam.</p>
+                                    <p>Etudes et conseils des projets de bâtiment et de Travaux publics : Conception, dimensionnement des ouvrages
+                                        de génie civil, suivi et contrôle des Travaux, etc...
+                                    </p>
                                 </div>
                             </div>
-                            <div class="services-item">                               
+                            <div class="services-item">
 								<div class="service-mid-icon right">
 									<a href="#"><span class="service-mid-icon-container"><i data-icon="_" class="icon"></i></span></a>
 								</div>
 								<div class="services-desc">
 									<h4 class="services-title"><a href="services-details.html">Gestion des déchets</a></h4>
-									<p>Lorem ipsum dolor sit amet, consectetur ex quis maximus. Mauris vel diam.</p>
+									<p>Etudes et conseils des projets de gestions et de valorisation des déchets : Caractérisation des déchets, Valorisation des déchets,
+                                        marché des dechets, etc...
+                                    </p>
 								</div>
 							</div>
-                        </div>   
+                        </div>
                     </div>
                 </div>
             </div>

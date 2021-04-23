@@ -6,16 +6,16 @@
                 <div class="col-lg-6 col-sm-7 col-xs-12">
                     <div class="toolbar-contact">
                         <ul>
-                            <li><i class="fa fa-phone"></i><a href="tel:+123456789">(+123) 456789</a></li>                                    
+                            <li><i class="fa fa-phone"></i><a href="tel:+2250708455763">(+225) 0708455763</a></li>
 
-                            <li><i class="fa fa-envelope-o"></i><a href="mailto:info@yourwebsite.com">info@yourwebsite.com</a></li>
+                            <li><i class="fa fa-envelope-o"></i><a href="mailto:info@yourwebsite.com">ballobih@yahoo.fr</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-6 col-sm-5 col-xs-12">
                     <div class="toolbar-sl-share">
                         <ul>
-                            <li class="follow">Follow us</li>
+                            <li class="follow">Suivez-nous</li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-rss"></i></a></li>

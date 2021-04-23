@@ -5,10 +5,10 @@
                 <div class="col-md-4">
                     <div class="about-widget">
                         <img src="{{ url('main/images/baida/logoblanc.png')}}" style="height: 120px;width:auto;" alt="Footer Logo">
-                        <p>"" Le développement durable et le changement climatique sont les de côté de la même pièce "". <br><strong>BAN KI-MOON</strong></p>
+                        <p>"" Le développement durable et le changement climatique sont de côté de la même pièce "". <br><strong>BAN KI-MOON</strong></p>
                         <ul class="footer-address">
-                            <li><i class="fa fa-phone"></i><a href="#">123-456-789</a></li>
-                            <li><i class="fa fa-envelope-o"></i><a href="#">info@yourdmain.com </a></li>
+                            <li><i class="fa fa-phone"></i><a href="#">+2250708455763</a></li>
+                            <li><i class="fa fa-envelope-o"></i><a href="#">ballobih@yahoo.fr</a></li>
                             <li><i class="fa fa-dribbble"></i><a href="#">www.example.com</a></li>
                         </ul>
                     </div>
@@ -81,7 +81,7 @@
                                 <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                 <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
                             </ul>
-                        </div>                                
+                        </div>
                     </div>
                 </div>
             </div>
