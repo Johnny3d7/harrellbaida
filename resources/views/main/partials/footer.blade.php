@@ -41,11 +41,11 @@
                 <div class="col-md-4">
                     <h5 class="footer-title">Liens utiles</h5>
                     <ul class="sitemap-widget">
-                        <li class="active"><a href="index.html">Accueil</a></li>
-                        <li><a href="about-company.html">Présentation</a></li>
-                        <li><a href="portfolio.html">Galerie</a></li>
-                        <li><a href="blog.html"></a>Services</li>
-                        <li><a href="contact.html">Contact </a></li>
+                        <li class="{{ (request()->segment(1) == '') ? 'active' : '' }}"><a href="{{ route('home') }}">Accueil</a></li>
+                        <li class="{{ (request()->segment(1) == 'qui-sommes-nous') ? 'active' : '' }}"><a href="{{ route('presentation') }}">Présentation</a></li>
+                        <li class="{{ (request()->segment(1) == 'galerie') ? 'active' : '' }}"><a href="{{ route('galerie') }}">Galerie</a></li>
+                        <li class="{{ (request()->segment(1) == 'services') ? 'active' : '' }}"><a href="{{ route('services') }}">Services</a></li>
+                        <li class="{{ (request()->segment(1) == 'contact') ? 'active' : '' }}"><a href="{{ route('contact') }}">Contact </a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">

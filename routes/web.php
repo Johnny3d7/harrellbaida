@@ -27,11 +27,11 @@ Route::get('services','Main\ServiceController@index')->name('services');
 Route::get('contact','Main\ContactController@index')->name('contact');
 
 //Qui sommes nous
-Route::get('presentation','Main\QuisnousController@index')->name('presentation');
+Route::get('qui-sommes-nous/presentation','Main\QuisnousController@index')->name('presentation');
 
-Route::get('valeurs-ethique','Main\QuisnousController@valeurEthique')->name('valeurs-ethique');
+Route::get('qui-sommes-nous/valeurs-ethique','Main\QuisnousController@valeurEthique')->name('valeurs-ethique');
 
-Route::get('notre-equipe','Main\QuisnousController@equipe')->name('equipe');
+Route::get('qui-sommes-nous/notre-equipe','Main\QuisnousController@equipe')->name('equipe');
 
 //Boutique
 Route::get('boutique','Main\BoutiqueController@index')->name('boutique');

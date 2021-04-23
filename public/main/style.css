@@ -4210,7 +4210,7 @@ ul.rs-testimonial-page .testi-item:last-child {
   z-index: 11;
 }
 .rs-error-page {
-  background-image: url('images/error.jpg');
+  background-image: url('images/baida/v6.jpg');
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
@@ -4363,7 +4363,7 @@ ul.rs-testimonial-page .testi-item:last-child {
 }
 .rs-footer .footer-top .sitemap-widget li a:hover,
 .rs-footer .footer-top .sitemap-widget li a:focus {
-  color: #eee;
+  color: #3aaa80;
 }
 .rs-footer .footer-top .sitemap-widget li a:after {
   content: '';
@@ -7563,6 +7563,14 @@ div#rs-partner .partner-item img {
 #object_four {
   -webkit-animation: object_four 1s infinite;
   animation: object_four 1s infinite;
+}
+
+.service-subtext{
+  color: #757575 !important;
+}
+
+.common:hover .service-subtext{
+  color: #ffffff !important;
 }
 @-webkit-keyframes loading-center-absolute {
   100% {

@@ -54,27 +54,28 @@
     <!-- Header Menu End -->
 </header>
 <!--Header End-->
-<!-- Breadcrumbs Start -->
-<div class="rs-breadcrumbs sec-spacer sec-color">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <div class="breadcrumbs-inner">
-                    <h1 class="page-title">@yield('page-title')</h1>
-                    <ul>
-                        <li>
-                            <a class="active" href="{{ route('home') }}">Accueil</a>
-                        </li>
-                        <li>@yield('page-title')</li>
-                    </ul>
+<div class="main-content">
+    <div class="rs-breadcrumbs sec-spacer sec-color">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="breadcrumbs-inner">
+                        <h1 class="page-title">@yield('page-title')</h1>
+                        <ul>
+                            <li>
+                                <a class="active" href="{{ route('home') }}">Accueil</a>
+                            </li>
+                            <li>@yield('page-title')</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+    <!-- Breadcrumbs End -->
+    @yield('sub-content')
 </div>
-<!-- Breadcrumbs End -->
-@yield('sub-content')
-
+<!-- Breadcrumbs Start -->
 @endsection
 
 @section('javascript')

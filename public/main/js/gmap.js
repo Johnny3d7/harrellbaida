@@ -13,8 +13,8 @@
 // gmap init
 function initialize() {
     var mapCanvas = document.getElementById('g-map');
-    var myCenter = new google.maps.LatLng(39.92757,-83.160207);
-    var mapOptions = {center: myCenter, zoom: 8, scrollwheel: false, mapTypeId: google.maps.MapTypeId.ROADMAP};
+    var myCenter = new google.maps.LatLng(5.359952,-4.008256);
+    var mapOptions = {center: myCenter, zoom: 12, scrollwheel: false, mapTypeId: google.maps.MapTypeId.ROADMAP};
     var map = new google.maps.Map(mapCanvas, mapOptions);
     var marker = new google.maps.Marker({position:myCenter});
     marker.setMap(map);
