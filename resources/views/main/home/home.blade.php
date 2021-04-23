@@ -165,7 +165,7 @@
 
                             <div class="signature-text">
                                 <p class="sign-title">-Henry James</p>
-                                <span class="sign-subtitle">CEO, Your Company</span>
+                                <span class="sign-subtitle">CEO, BAIDA ENGINEERING</span>
                                 <img src="{{ url('main/images/about/signature.png')}}" alt="">
                             </div>
                         </div>
@@ -296,10 +296,7 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Prospection Géophysique</a></h4>
-                                    <p>Implantation de Forage d'eau : Localisation des aquifères en milieu cristallin et en milieu sédimentaire
-                                        puis identification des sites favorables à la réalisation de forage positifs. <br>
-                                        Investigations environnementales : Sondages des cartographies des couches géologiques souterraines à une profondeur
-                                        d'investigation de 400m; Etude du niveau du socle; Etudes des couches argileuses souterraines; etc...
+                                    <p>Implantation de Forage d'eau : Localisation des aquifères en milieu cristallin et en milieu sédimentaire puis identification ...
                                     </p>
                                 </div>
                             </div>
@@ -309,8 +306,7 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Alimentation en eau potable</a></h4>
-                                    <p>Etudes et conseils des projets d'alimentations en eau potable (AEP): Conception et dimensionnement de reseaux AEP;
-                                        Suivi et contrôle des travaux d'AEP, d'Hydraulique villageoise ameliorée (HVA) et d'Hydraulique urbaine (HU)
+                                    <p>Etudes et conseils des projets d'alimentations en eau potable (AEP) ...
                                     </p>
                                 </div>
                             </div>
@@ -320,8 +316,7 @@
 								</div>
 								<div class="services-desc">
 									<h4 class="services-title"><a href="services-details.html">Assainissement</a></h4>
-									<p>Etudes et conseils des projets d'assainissements : Conception et dimensionnement de réseau d'assainissement,
-                                        suiviet contrôles des travaux.
+									<p>Etudes et conseils des projets d'assainissements : Conception et dimensionnement de réseau ...
                                     </p>
 								</div>
 							</div>
@@ -338,12 +333,7 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Environnement et développement durable</a></h4>
-                                    <p>Evaluations environnementales et social, Etude d'impact environnemental et social,
-                                        Management environnemental (Certifiacation ISO 14001) <br>
-                                        Developpement durable : Objectifs de developpement durable, politique publiques de developpement durable,
-                                        economie bleu, économie verte, économie circulaire, etc... <br>
-                                        Changement Climatique : Inventaire de gaz à effet de serre, atténuation, adaptation au changement climatique,
-                                        financements climatiques, etc...
+                                    <p>Evaluations environnementales et social, Etude d'impact environnemental et social ...
                                     </p>
                                 </div>
                             </div>
@@ -353,8 +343,7 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Bâtiment et travaux public</a></h4>
-                                    <p>Etudes et conseils des projets de bâtiment et de Travaux publics : Conception, dimensionnement des ouvrages
-                                        de génie civil, suivi et contrôle des Travaux, etc...
+                                    <p>Etudes et conseils des projets de bâtiment et de Travaux publics ...
                                     </p>
                                 </div>
                             </div>
@@ -364,8 +353,7 @@
 								</div>
 								<div class="services-desc">
 									<h4 class="services-title"><a href="services-details.html">Gestion des déchets</a></h4>
-									<p>Etudes et conseils des projets de gestions et de valorisation des déchets : Caractérisation des déchets, Valorisation des déchets,
-                                        marché des dechets, etc...
+									<p>Etudes et conseils des projets de gestions et de valorisation des déchets ...
                                     </p>
 								</div>
 							</div>
