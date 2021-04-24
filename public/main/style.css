@@ -1530,6 +1530,18 @@ ul {
 .rs-cta {
   padding: 65px 0;
   position: relative;
+  /*background-position:fixed;*/
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: 
+    /* top, transparent red */
+    linear-gradient(
+      rgba(15,112,183,0.82), 
+      rgba(15,112,183,0.82)
+    ),
+    /* your image */
+    url("images/baida/v5.jpg");
 }
 .rs-cta .cta-content h3 {
   font-size: 30px;
@@ -4045,8 +4057,18 @@ ul.rs-testimonial-page .testi-item:last-child {
 }
 .rs-contact .contact-bg .contact-address {
   padding: 70px 55px;
-  background: #0f70b7;
   color: #fff;
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: 
+    /* top, transparent red */
+    linear-gradient(
+      rgba(15,112,183,0.85), 
+      rgba(15,112,183,0.85)
+    ),
+    /* your image */
+    url("images/baida/v12.jpg");
 }
 .rs-contact .contact-bg .contact-address p.contact-title {
   color: #fff;
@@ -4182,9 +4204,9 @@ ul.rs-testimonial-page .testi-item:last-child {
   color: #fff;
 }
 .rs-contact .contact-form .form-button button:hover {
-  border: 2px solid #0f70b7;
-  background: transparent;
-  color: #3aaa35;
+  border: 2px solid #3aaa35;
+  background: #3aaa35;
+  color: #fff;
   box-shadow: unset;
 }
 .video-section-area {
@@ -4290,9 +4312,18 @@ ul.rs-testimonial-page .testi-item:last-child {
   width: 50px;
   background-color: #fff;
 }
+
 .rs-footer .footer-top {
   padding: 80px 0;
-  background: #0f70b7;
+  background-position:center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-image: 
+    linear-gradient(
+      RGBA(15,112,183,0.82), 
+      RGBA(15,112,183,0.82)
+    ),
+    url("images/baida/v9.jpg");
 }
 .rs-footer .footer-top .about-widget img {
   margin-bottom: 25px;

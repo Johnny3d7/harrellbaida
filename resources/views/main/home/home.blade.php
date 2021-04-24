@@ -153,10 +153,10 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-7 col-sm-12 pr-md-65">
                             <div class="sec-title">
-                                <h4>Baida Engineering</h4>
+                                <h4>Baïda Engineering</h4>
                                 <h3>Le sceau de l'expertise</h3>
                             </div>
-                            <p class="about-desc mt-5">Baida Engineering SARL est une entreprise qui a pour coeur de metier l'accès à l'eau,
+                            <p class="about-desc mt-5">Baïda Engineering SARL est une entreprise qui a pour coeur de metier l'accès à l'eau,
                                 la sauvegarde de l'environnement et de developpement durable. Elle intervient également dans l'import-export
                                 des équipements hydrauliques (pompes solaires LORENTZ, ...etc.) et dans le domaine des bâtiments et des Travaux Publics.
                                 Elle est composée d'un personnel hautement qualifiés, expérimenté et apte à garantie un travail de qualité à coût
@@ -165,7 +165,7 @@
 
                             <div class="signature-text">
                                 <p class="sign-title">-Henry James</p>
-                                <span class="sign-subtitle">CEO, BAIDA ENGINEERING</span>
+                                <span class="sign-subtitle">CEO, Baïda Engineering</span>
                                 <img src="{{ url('main/images/about/signature.png')}}" alt="">
                             </div>
                         </div>
@@ -368,10 +368,10 @@
                     <div class="row">
                         <div class="col-md-8 col-sm-12 col-xs-12">
                             <div class="cta-content">
-                                <h3>Baida Enginnering</h3>
-                                <p>
-                                    l'expertise électro-hydraulique au coeur de vos métiers.
-                                </p>
+                                <h2 style="color: white">Baïda Engineering</h2>
+                                <h4 style="color: white">
+                                    Le sceau de l'expertise.
+                                </h4>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-12 col-xs-12">
