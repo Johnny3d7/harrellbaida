@@ -153,10 +153,10 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-7 col-sm-12 pr-md-65">
                             <div class="sec-title">
-                                <h4>Baida Engineering</h4>
+                                <h4>Baïda Engineering</h4>
                                 <h3>Le sceau de l'expertise</h3>
                             </div>
-                            <p class="about-desc mt-5">Baida Engineering SARL est une entreprise qui a pour coeur de metier l'accès à l'eau,
+                            <p class="about-desc mt-5">Baïda Engineering SARL est une entreprise qui a pour coeur de metier l'accès à l'eau,
                                 la sauvegarde de l'environnement et de developpement durable. Elle intervient également dans l'import-export
                                 des équipements hydrauliques (pompes solaires LORENTZ, ...etc.) et dans le domaine des bâtiments et des Travaux Publics.
                                 Elle est composée d'un personnel hautement qualifiés, expérimenté et apte à garantie un travail de qualité à coût
@@ -165,7 +165,7 @@
 
                             <div class="signature-text">
                                 <p class="sign-title">-Henry James</p>
-                                <span class="sign-subtitle">CEO, Your Company</span>
+                                <span class="sign-subtitle">CEO, Baïda Engineering</span>
                                 <img src="{{ url('main/images/about/signature.png')}}" alt="">
                             </div>
                         </div>
@@ -296,10 +296,7 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Prospection Géophysique</a></h4>
-                                    <p>Implantation de Forage d'eau : Localisation des aquifères en milieu cristallin et en milieu sédimentaire
-                                        puis identification des sites favorables à la réalisation de forage positifs. <br>
-                                        Investigations environnementales : Sondages des cartographies des couches géologiques souterraines à une profondeur
-                                        d'investigation de 400m; Etude du niveau du socle; Etudes des couches argileuses souterraines; etc...
+                                    <p>Implantation de Forage d'eau : Localisation des aquifères en milieu cristallin et en milieu sédimentaire puis identification ...
                                     </p>
                                 </div>
                             </div>
@@ -309,8 +306,7 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Alimentation en eau potable</a></h4>
-                                    <p>Etudes et conseils des projets d'alimentations en eau potable (AEP): Conception et dimensionnement de reseaux AEP;
-                                        Suivi et contrôle des travaux d'AEP, d'Hydraulique villageoise ameliorée (HVA) et d'Hydraulique urbaine (HU)
+                                    <p>Etudes et conseils des projets d'alimentations en eau potable (AEP) ...
                                     </p>
                                 </div>
                             </div>
@@ -320,8 +316,7 @@
 								</div>
 								<div class="services-desc">
 									<h4 class="services-title"><a href="services-details.html">Assainissement</a></h4>
-									<p>Etudes et conseils des projets d'assainissements : Conception et dimensionnement de réseau d'assainissement,
-                                        suiviet contrôles des travaux.
+									<p>Etudes et conseils des projets d'assainissements : Conception et dimensionnement de réseau ...
                                     </p>
 								</div>
 							</div>
@@ -338,12 +333,7 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Environnement et développement durable</a></h4>
-                                    <p>Evaluations environnementales et social, Etude d'impact environnemental et social,
-                                        Management environnemental (Certifiacation ISO 14001) <br>
-                                        Developpement durable : Objectifs de developpement durable, politique publiques de developpement durable,
-                                        economie bleu, économie verte, économie circulaire, etc... <br>
-                                        Changement Climatique : Inventaire de gaz à effet de serre, atténuation, adaptation au changement climatique,
-                                        financements climatiques, etc...
+                                    <p>Evaluations environnementales et social, Etude d'impact environnemental et social ...
                                     </p>
                                 </div>
                             </div>
@@ -353,8 +343,7 @@
                                 </div>
                                 <div class="services-desc">
                                     <h4 class="services-title"><a href="services-details.html">Bâtiment et travaux public</a></h4>
-                                    <p>Etudes et conseils des projets de bâtiment et de Travaux publics : Conception, dimensionnement des ouvrages
-                                        de génie civil, suivi et contrôle des Travaux, etc...
+                                    <p>Etudes et conseils des projets de bâtiment et de Travaux publics ...
                                     </p>
                                 </div>
                             </div>
@@ -364,8 +353,7 @@
 								</div>
 								<div class="services-desc">
 									<h4 class="services-title"><a href="services-details.html">Gestion des déchets</a></h4>
-									<p>Etudes et conseils des projets de gestions et de valorisation des déchets : Caractérisation des déchets, Valorisation des déchets,
-                                        marché des dechets, etc...
+									<p>Etudes et conseils des projets de gestions et de valorisation des déchets ...
                                     </p>
 								</div>
 							</div>
@@ -380,10 +368,10 @@
                     <div class="row">
                         <div class="col-md-8 col-sm-12 col-xs-12">
                             <div class="cta-content">
-                                <h3>Baida Enginnering</h3>
-                                <p>
-                                    l'expertise électro-hydraulique au coeur de vos métiers.
-                                </p>
+                                <h2 style="color: white">Baïda Engineering</h2>
+                                <h4 style="color: white">
+                                    Le sceau de l'expertise.
+                                </h4>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-12 col-xs-12">
@@ -833,15 +821,18 @@
 <script>
     $(document).ready(function(){
     $("#rs-header.transparent-header .menu-area .rs-menu ul li > a").css("color", "#ffffff");
+    $("#logop").attr("src", "{{ url('main/images/baida/logoblanc.png')}}");
     $(window).scroll(function(){
      var scroll = $(window).scrollTop();
        if(scroll>120){
         $("#rs-header.transparent-header .menu-area .rs-menu ul li > a").css("color", "#575656");
+        $("#logop").attr("src", "{{ url('main/images/baida/logo.png')}}");
         console.log("scroll");
          }
          else {
             console.log("scrolling");
         $("#rs-header.transparent-header .menu-area .rs-menu ul li > a").css("color", "#ffffff");
+        $("#logop").attr("src", "{{ url('main/images/baida/logoblanc.png')}}");
          }
         });
      });
