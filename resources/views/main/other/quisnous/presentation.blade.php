@@ -9,7 +9,6 @@ Présentation
 @endsection
 
 @section('sub-content')
-
      <!-- Accordion Start -->
      <section class="rs-about-3 pt-100 pb-80">
         <div class="container">
@@ -75,7 +74,7 @@ Présentation
             <div class="row">
                 <div class="col-md-6 col-sm-12">
                     <div class="services-middle-img pr-md-50">
-                        <img src="images/service/6.jpg" alt="Service Image" />
+                        <img src="{{ url('main/images/service/6.jpg') }}" alt="Service Image" />
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 mpt-40">
@@ -143,9 +142,9 @@ Présentation
                 </div>
                 <div class="col-md-5 mpt-40">
                     <div class="video-section-area">
-                        <img src="images/video/video.jpg" alt="">
+                        <img src="{{ url('main/images/video/video.jpg') }}" alt="">
                         <a class="popup-videos" href="https://www.youtube.com/watch?v=YLN1Argi7ik" title="Video Icon">
-                            <img class="video-icon" src="images/video/video-icon.png" alt="">
+                            <img class="video-icon" src="{{ url('main/images/video/video-icon.png') }}" alt="">
                         </a>
                         <div class="overly-border"></div>
                     </div>
