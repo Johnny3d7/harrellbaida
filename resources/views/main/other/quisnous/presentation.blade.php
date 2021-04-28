@@ -18,8 +18,9 @@ Présentation
                         <h4>Welcome To bStart</h4>
                         <h3>World Best Consulting Agency</h3>
                     </div>
-                    <p class="about-desc">Suspendisse ex neque, sollicitudin in velit eu, luctus gravida nunc. Nulla pul-vinar risus sed metus euismod sodales ut sed nisi. Nulla posuere suscipit finibus. Quisque place vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas. Nunc erat libero. Free online Lorem Ipsum dummy neque porro quisquam est. It uses a dictionary of over 200 Latin words, combined with a handful of model.</p>
-                    <p class="about-desc">Suspendisse ex neque, sollicitudin in velit eu, luctus gravida nunc. Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas. Dummy text generator with great features. Online Lorem Ipsum dummy neque porro quisquam est. It uses a dictionary of over 200 Latin words, combined.</p>
+                    <p class="about-desc">Baïda Engineering SARL est une entreprise qui a pour coeur de metier l'accès à l'eau, la sauvegarde de l'environnement et de developpement durable.
+                        Elle intervient également dans l'import-export des équipements hydrauliques (pompes solaires LORENTZ, ...etc.) et dans le domaine des bâtiments et des Travaux Publics.
+                        Elle est composée d'un personnel hautement qualifiés, expérimenté et apte à garantie un travail de qualité à coût raisonnable dans un delai convenu avec le client.</p>
                 </div>
                 <div class="col-md-5 mpt-20">
                     <!-- panel start -->
@@ -27,7 +28,7 @@ Présentation
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
-                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Our History</a>
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Notre Histoire</a>
                                 </h4>
                             </div>
                             <div id="collapseOne" class="panel-collapse collapse in">
@@ -39,7 +40,7 @@ Présentation
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
-                                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">Our Mission</a>
+                                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">Notre Mission</a>
                                 </h4>
                             </div>
                             <div id="collapseTen" class="panel-collapse collapse">
@@ -51,7 +52,7 @@ Présentation
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
-                                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">Our Vision</a>
+                                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">Notre Vision</a>
                                 </h4>
                             </div>
                             <div id="collapseEleven" class="panel-collapse collapse">
@@ -80,7 +81,7 @@ Présentation
                 <div class="col-md-6 col-sm-12 mpt-40">
                     <div class="sec-title">
                         <h4>Our Responsibilities</h4>
-                        <h3>We Always Careful</h3>
+                        <h3>Notre savoir-faire</h3>
                     </div>
 
                     <div class="services-item">
