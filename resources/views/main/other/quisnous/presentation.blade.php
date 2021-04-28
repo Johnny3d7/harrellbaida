@@ -89,7 +89,7 @@ Présentation
                             <a href="#"><span class="service-mid-icon-container"><i data-icon="7" class="icon"></i></span></a>
                         </div>
                         <div class="services-desc">
-                            <h4 class="services-title"><a href="services-details.html">Focus on Best Quality</a></h4>
+                            <h4 class="services-title"><a href="services-details.html">Prospection Géophysique</a></h4>
                             <p>Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas.</p>
                         </div>
                     </div>
@@ -98,7 +98,7 @@ Présentation
                             <a href="#"><span class="service-mid-icon-container"><i data-icon="C" class="icon"></i></span></a>
                         </div>
                         <div class="services-desc">
-                            <h4 class="services-title"><a href="services-details.html">Focus on Good Relation</a></h4>
+                            <h4 class="services-title"><a href="services-details.html">Investigation environnementale</a></h4>
                             <p>Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas.</p>
                         </div>
                     </div>
@@ -107,7 +107,7 @@ Présentation
                             <a href="#"><span class="service-mid-icon-container"><i data-icon="&#xe00a;" class="icon"></i></span></a>
                         </div>
                         <div class="services-desc">
-                            <h4 class="services-title"><a href="services-details.html">Focus on Abilities</a></h4>
+                            <h4 class="services-title"><a href="services-details.html">Réalisation de systèmes d'approvisionnement en eau potable (HV, HVA, HU)</a></h4>
                             <p>Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas.</p>
                         </div>
                     </div>
@@ -116,7 +116,34 @@ Présentation
                             <a href="#"><span class="service-mid-icon-container"><i data-icon=">" class="icon"></i></span></a>
                         </div>
                         <div class="services-desc">
-                            <h4 class="services-title"><a href="services-details.html">SEO Services</a></h4>
+                            <h4 class="services-title"><a href="services-details.html">Fourniture et installation de pompe solaire immergée pour l'eau de boisson et de pompe solaire de surface de l'irrigation agricole et les piscines</a></h4>
+                            <p>Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas.</p>
+                        </div>
+                    </div>
+                    <div class="services-item">
+                        <div class="service-mid-icon">
+                            <a href="#"><span class="service-mid-icon-container"><i data-icon="&#xe00a;" class="icon"></i></span></a>
+                        </div>
+                        <div class="services-desc">
+                            <h4 class="services-title"><a href="services-details.html">Environnement et Développement durable</a></h4>
+                            <p>Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas.</p>
+                        </div>
+                    </div>
+                    <div class="services-item">
+                        <div class="service-mid-icon">
+                            <a href="#"><span class="service-mid-icon-container"><i data-icon="&#xe00a;" class="icon"></i></span></a>
+                        </div>
+                        <div class="services-desc">
+                            <h4 class="services-title"><a href="services-details.html">Assainissement</a></h4>
+                            <p>Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas.</p>
+                        </div>
+                    </div>
+                    <div class="services-item">
+                        <div class="service-mid-icon">
+                            <a href="#"><span class="service-mid-icon-container"><i data-icon="&#xe00a;" class="icon"></i></span></a>
+                        </div>
+                        <div class="services-desc">
+                            <h4 class="services-title"><a href="services-details.html">Bâtiment et Travaux Public (BTP)</a></h4>
                             <p>Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas.</p>
                         </div>
                     </div>
