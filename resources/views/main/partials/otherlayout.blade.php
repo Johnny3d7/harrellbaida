@@ -1,7 +1,7 @@
 @extends('main.main')
 
 @section('stylesheets')
-    
+
 @endsection
 
 @section('content')
@@ -79,5 +79,5 @@
 @endsection
 
 @section('javascript')
-    
+
 @endsection

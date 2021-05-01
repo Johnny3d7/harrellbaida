@@ -15,8 +15,8 @@ Présentation
             <div class="row">
                 <div class="col-md-7">
                     <div class="sec-title">
-                        <h4>Welcome To bStart</h4>
-                        <h3>World Best Consulting Agency</h3>
+                        <h4>BAÏDA</h4>
+                        <h3>En bref</h3>
                     </div>
                     <p class="about-desc">Baïda Engineering SARL est une entreprise qui a pour coeur de metier l'accès à l'eau, la sauvegarde de l'environnement et de developpement durable.
                         Elle intervient également dans l'import-export des équipements hydrauliques (pompes solaires LORENTZ, ...etc.) et dans le domaine des bâtiments et des Travaux Publics.
@@ -37,6 +37,7 @@ Présentation
                                 </div>
                             </div>
                         </div>
+
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
@@ -75,7 +76,7 @@ Présentation
             <div class="row">
                 <div class="col-md-6 col-sm-12">
                     <div class="services-middle-img pr-md-50">
-                        <img src="{{ url('main/images/service/6.jpg') }}" alt="Service Image" />
+                        <img src="{{ url('main/images/baida/v15.jpg') }}" alt="Service Image" />
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 mpt-40">
@@ -90,7 +91,7 @@ Présentation
                         </div>
                         <div class="services-desc">
                             <h4 class="services-title"><a href="services-details.html">Prospection Géophysique</a></h4>
-                            <p>Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas.</p>
+                            <p>Implantation de forage d'eau: Localisation des aquifères en milieu sédimentaires puis identification des sites favorables à la réalisation des forages positifs.</p>
                         </div>
                     </div>
                     <div class="services-item">
@@ -181,6 +182,39 @@ Présentation
         </div>
     </section>
     <!-- About Us End -->
+
+    <!-- Partner Start -->
+
+
+    <div id="rs-defult-partner" class="rs-defult-partner gray-color pt-100 pb-100">
+        <div class="container">
+
+            <div class="sec-title">
+                <h3>NOS PARTENAIRES</h3>
+                <h7>ils nous ont fait confiance</h7>
+            </div>
+
+
+            <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-autoplay-timeout="8000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false" data-mobile-device="2" data-mobile-device-nav="true" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="true" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="true" data-ipad-device-dots2="false" data-md-device="5" data-md-device-nav="true" data-md-device-dots="false">
+                <div class="partner-item">
+                    <a href="#"><img src="images/partner/1.png" alt="Partner Image"></a>
+                </div>
+                <div class="partner-item">
+                    <a href="#"><img src="images/partner/2.png" alt="Partner Image"></a>
+                </div>
+                <div class="partner-item">
+                    <a href="#"><img src="images/partner/3.png" alt="Partner Image"></a>
+                </div>
+                <div class="partner-item">
+                    <a href="#"><img src="images/partner/4.png" alt="Partner Image"></a>
+                </div>
+                <div class="partner-item">
+                    <a href="#"><img src="images/partner/5.png" alt="Partner Image"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Partner End -->
 
 
 @endsection

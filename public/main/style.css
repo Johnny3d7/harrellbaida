@@ -4,7 +4,7 @@
 *
 * -----------------------------------------------------------------------------
 *
-* Template : bStart - Business and Corporate HTML5 Template 
+* Template : bStart - Business and Corporate HTML5 Template
 * Author : rs-theme
 * Author URI : http://www.rstheme.com/
 *
@@ -15,7 +15,7 @@
 ---------------------------------------------------------
 01. General CSS
 02. Global Class
-03. Header Section 
+03. Header Section
 04. Sticky Menu
 05. Slider Section
 06. About Us
@@ -40,7 +40,7 @@
 25. Home Banner
 26. Rs Video Area
 27. Our History Section
-28. Faq Section Start 
+28. Faq Section Start
 29. CTA Section Start
 30. Responsibiity Section Start
 31. Leadership Section
@@ -417,7 +417,7 @@ ul {
   color: #fff !important;
 }
 /* ---------------------------
-    03. Header Section 
+    03. Header Section
 ------------------------------*/
 #rs-header .mobile-menu {
   display: none;
@@ -1531,13 +1531,13 @@ ul {
   padding: 65px 0;
   position: relative;
   /*background-position:fixed;*/
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-image: 
+  background-image:
     /* top, transparent red */
     linear-gradient(
-      rgba(15,112,183,0.82), 
+      rgba(15,112,183,0.82),
       rgba(15,112,183,0.82)
     ),
     /* your image */
@@ -4058,13 +4058,13 @@ ul.rs-testimonial-page .testi-item:last-child {
 .rs-contact .contact-bg .contact-address {
   padding: 70px 55px;
   color: #fff;
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-image: 
+  background-image:
     /* top, transparent red */
     linear-gradient(
-      rgba(15,112,183,0.85), 
+      rgba(15,112,183,0.85),
       rgba(15,112,183,0.85)
     ),
     /* your image */
@@ -4315,12 +4315,12 @@ ul.rs-testimonial-page .testi-item:last-child {
 
 .rs-footer .footer-top {
   padding: 80px 0;
-  background-position:center; 
-  background-repeat: no-repeat; 
+  background-position:center;
+  background-repeat: no-repeat;
   background-size: cover;
-  background-image: 
+  background-image:
     linear-gradient(
-      RGBA(15,112,183,0.82), 
+      RGBA(15,112,183,0.82),
       RGBA(15,112,183,0.82)
     ),
     url("images/baida/v9.jpg");
@@ -4602,7 +4602,7 @@ div#rs-partner .partner-item img {
     19. Counter Up
   ---------------------------------------*/
 .counter-top-area {
-  background: url(images/about/counter-up.jpg) no-repeat scroll 0 0;
+  background: url(images/baida/v8.jpg) no-repeat scroll 0 0;
   background-attachment: fixed;
   transition: all 0.3s ease 0s;
   background-size: cover;
@@ -4728,7 +4728,9 @@ div#rs-partner .partner-item img {
   background-size: cover;
 }
 .rs-breadcrumbs.sec-spacer {
-  padding: 40px 0;
+  padding: 100px 0;
+  background-image: url(images/baida/v5.jpg);
+  text-align: center;
 }
 .rs-breadcrumbs .page-title {
   font-size: 36px;
@@ -4980,7 +4982,7 @@ div#rs-partner .partner-item img {
   padding: 0;
 }
 /* ------------------------------------
-    23. Blog Sidebar 
+    23. Blog Sidebar
 ---------------------------------------*/
 .bs-sidebar .bs-widget-title {
   font-size: 20px;
@@ -5957,7 +5959,7 @@ div#rs-partner .partner-item img {
   font-size: 18px;
 }
 /* ---------------------------
-  28. Faq Section Start 
+  28. Faq Section Start
 ------------------------------*/
 .faq-section {
   padding: 92px 0 90px;
@@ -6053,7 +6055,7 @@ div#rs-partner .partner-item img {
   border: 1px solid #0f70b7;
 }
 /* ---------------------------
-   29. CTA Section Start 
+   29. CTA Section Start
 ------------------------------*/
 .rs-home-cta {
   padding: 45px 0 47px;
@@ -6100,7 +6102,7 @@ div#rs-partner .partner-item img {
   background-color: #3aaa35;
 }
 /* ---------------------------
-  30. Responsibiity Section Start 
+  30. Responsibiity Section Start
 ------------------------------*/
 .rs-responsibiity .sec-title {
   margin-bottom: 35px;
