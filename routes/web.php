@@ -23,9 +23,6 @@ Route::get('/','Main\HomeController@index')->name('home');
 //Services
 Route::get('services','Main\ServiceController@index')->name('services');
 
-//Contact
-Route::get('contact','Main\ContactController@index')->name('contact');
-
 //Qui sommes nous
 Route::get('qui-sommes-nous/presentation','Main\QuisnousController@index')->name('presentation');
 
@@ -33,8 +30,11 @@ Route::get('qui-sommes-nous/valeurs-ethique','Main\QuisnousController@valeurEthi
 
 Route::get('qui-sommes-nous/notre-equipe','Main\QuisnousController@equipe')->name('equipe');
 
+//Galerie
+Route::get('galerie','Main\GalerieController@index')->name('galerie');
+
 //Boutique
 Route::get('boutique','Main\BoutiqueController@index')->name('boutique');
 
-//Galerie
-Route::get('galerie','Main\GalerieController@index')->name('galerie');
+//Contact
+Route::get('contact','Main\ContactController@index')->name('contact');
