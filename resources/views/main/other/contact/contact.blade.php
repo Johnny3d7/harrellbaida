@@ -2,12 +2,6 @@
 
 @section('child_stylesheets')
 
-
-    .rs-breadcrumbs.sec-spacer{
-        background-image: url(images/baida/v5.jpg);
-    }
-
-
 @endsection
 
 @section('page-title')
