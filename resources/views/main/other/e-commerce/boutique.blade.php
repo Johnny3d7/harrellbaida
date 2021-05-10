@@ -18,15 +18,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/1.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/1.jpg ') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -35,15 +35,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/2.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/2.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -52,15 +52,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/3.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/3.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -69,15 +69,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/4.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/4.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -86,15 +86,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/5.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/5.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -103,15 +103,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/6.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/6.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -120,15 +120,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/7.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/7.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -137,15 +137,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/8.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/8.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -154,15 +154,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/9.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/9.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -171,15 +171,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/10.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/10.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -188,15 +188,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/11.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/11.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -205,15 +205,15 @@ Boutique
                 <div class="single-product text-center">
                     <div class="product-image">
                         <div class="overly"></div>
-                        <a href="#"><img src="images/product/12.jpg" alt="Product" /></a>
+                        <a href="#"><img src="{{ url('main/images/product/12.jpg') }}" alt="Product" /></a>
                     </div>
                     <div class="product-details">
                         <div class="product-tile">
                             <a href="#">Product Title Here</a>
-                            <span>$55.00</span>
+                            <span>30 000 FCFA</span>
                         </div>
                         <div class="product-cart">
-                            <a href="#"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+                            <a href="#"><i class="fa fa-shopping-cart"></i> Acheter</a>
                         </div>
                     </div>
                 </div>
@@ -227,7 +227,7 @@ Boutique
                         <li><a href="#">2</a></li>
                         <li><a href="#">3</a></li>
                         <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
-                        <li><a href="#">END</a></li>
+                        <li><a href="#">FIN</a></li>
                     </ul>
                 </div>
             </div>
