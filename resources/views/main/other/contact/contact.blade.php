@@ -1,11 +1,17 @@
 @extends('main.partials.otherlayout')
 
-@section('stylesheets')
-    
+@section('child_stylesheets')
+
+
+    .rs-breadcrumbs.sec-spacer{
+        background-image: url(images/baida/v5.jpg);
+    }
+
+
 @endsection
 
 @section('page-title')
-Contact   
+Contact
 @endsection
 
 @section('sub-content')
@@ -69,7 +75,7 @@ Contact
                          </div>
                      </div>
                  </div>
-                 <div class="margin col-md-7">   
+                 <div class="margin col-md-7">
                      <div class="contact-form">
                          <div class="contact-form-title">
                              <p class="contact-title">Nous écrire</p>
@@ -81,13 +87,13 @@ Contact
                                      <div class="form-field">
                                          <i class="fa fa-address-book-o"></i>
                                          <input type="text" placeholder="Nom" id="name" name="name" required>
-                                     </div>                              
+                                     </div>
                                  </div>
                                  <div class="col-md-6">
                                      <div class="form-field">
                                          <i class="fa fa-envelope-o"></i>
                                          <input type="email" placeholder="E-Mail" id="email" name="email" required>
-                                     </div>                              
+                                     </div>
                                  </div>
                              </div>
                              <div class="row">
@@ -95,15 +101,15 @@ Contact
                                      <div class="form-field">
                                          <i class="fa fa-phone"></i>
                                          <input type="text" placeholder="Numéro de téléphone" id="phone_number" name="phone_number" required>
-                                     </div>                             
+                                     </div>
                                  </div>
                                  <div class="col-md-6">
                                      <div class="form-field">
                                          <i class="fa fa-map-marker"></i>
                                          <input type="text" placeholder="Ville ou quartier" id="website" name="website" required="false">
-                                     </div>                              
+                                     </div>
                                  </div>
-                             </div>                        
+                             </div>
                              <div class="form-field">
                                  <textarea placeholder="Écrivez votre message" rows="7" id="message" name="message" required></textarea>
                              </div>
@@ -111,9 +117,9 @@ Contact
                                  <button type="submit" class="readon">Envoyez</button>
                              </div>
                          </form>
-                     </div> 
+                     </div>
                  </div>
-             </div>               
+             </div>
          </div>
      </div>
  </section>
@@ -121,5 +127,5 @@ Contact
 @endsection
 
 @section('javascript')
-    
+
 @endsection
