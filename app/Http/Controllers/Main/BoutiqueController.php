@@ -14,7 +14,7 @@ class BoutiqueController extends Controller
      */
     public function index()
     {
-        //
+        return view('main.other.e-commerce.boutique')->render();
     }
 
     /**
