@@ -1,12 +1,6 @@
 @extends('main.partials.otherlayout')
 
-@section('child_stylesheets')
-
-
-    .rs-breadcrumbs.sec-spacer{
-        background-image: url(images/baida/v5.jpg);
-    }
-
+@section('stylesheets')
 
 @endsection
 
