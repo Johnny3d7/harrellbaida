@@ -155,32 +155,96 @@ Présentation
     <!-- Responsibiity End -->
 
     <!-- About Us Start -->
-    <section id="rs-about" class="rs-about pt-100 pb-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-7 pr-md-65">
-                    <div class="sec-title">
-                        <h4>Our Success Story</h4>
-                        <h3>We Provide Best Sollution</h3>
-                    </div>
-                    <p class="about-desc mt-5">Suspendisse ex neque, sollicitudin in velit eu, luctus gravida nunc. Nulla pul-vinar risus sed metus euismod sodales ut sed nisi. Nulla posuere suscipit finibus. Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in porttitor lacus egestas. Nunc erat libero. Free online Lorem Ipsum dummy text generator with great features.
-                    We has survived not only five centuries.when an unknown</p>
+    <!-- Services Section Start -->
+			<div class="our-hostory-section mt-100 mb-100">
+				<div class="container">
+					<div class="row">
+						<!-- titmeline Start -->
+						<div class="rs-titmeline">
+							<div class="col-sm-12">
+								<div class="rs-timeline">
+									<div class="rs-timeline-block">
+										<div class="rs-timeline-icon">
+											<i class="fa fa-pencil"></i>
+										</div>
+										<div class="rs-timeline-content">
+											<h3>Establishment of Company</h3>
+											<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+											<a href="#0" class="rs-read-more">Read more</a>
+											<span class="rs-date">Jan 14 2010</span>
+										</div>
+									</div>
 
-                    <p class="about-desc margin-remove">printer took a galley of type and scrambled it to make a type specimen book. Nunc erat libero. Free online Lorem Ipsum dummy text generator with great features.
-                    We has survived not only five centuries.when an unknown</p>
-                </div>
-                <div class="col-md-5 mpt-40">
-                    <div class="video-section-area">
-                        <img src="{{ url('main/images/video/video.jpg') }}" alt="">
-                        <a class="popup-videos" href="https://www.youtube.com/watch?v=YLN1Argi7ik" title="Video Icon">
-                            <img class="video-icon" src="{{ url('main/images/video/video-icon.png') }}" alt="">
-                        </a>
-                        <div class="overly-border"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+									<div class="rs-timeline-block">
+										<div class="rs-timeline-icon">
+											<i class="fa fa-image"></i>
+										</div>
+
+										<div class="rs-timeline-content">
+											<a href="#">
+												<img src="images/about/counter-up.jpg" alt="Timeline Image">
+											</a>
+											<h3><a href="#">Increase emplies by 6 members</a></h3>
+											<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+											<a href="#0" class="rs-read-more">Read more</a>
+											<span class="rs-date">March 18 2014</span>
+										</div>
+									</div>
+
+									<div class="rs-timeline-block">
+										<div class="rs-timeline-icon">
+											<i class="fa fa-video-camera"></i>
+										</div>
+
+										<div class="rs-timeline-content">
+											<video controls="">
+												<source src="https://0.s3.envato.com/h264-video-previews/dc4f42f5-8742-4e3c-bb1a-41e292b4aa11/17885303.mp4" type="video/mp4">
+											</video>
+											<h3><a href="#">Registration of Company</a></h3>
+											<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+											<a href="#0" class="rs-read-more">Read more</a>
+											<span class="rs-date">Feb 14 2015</span>
+										</div>
+									</div>
+
+									<div class="rs-timeline-block">
+										<div class="rs-timeline-icon">
+											<i class="fa fa-youtube"></i>
+										</div>
+
+										<div class="rs-timeline-content">
+                                            <iframe height="350" src="https://www.youtube.com/embed/K3Lg3NSTeV4?&amp;rel=0&amp;loop=1&amp;showinfo=0&amp;disablekb=1&amp;modestbranding=1&amp;controls=0&amp;hd=1&amp;autohide=1&amp;color=white&amp;wmode=opaque" allowfullscreen=""></iframe>
+
+											<h3><a href="#">Branches open in International</a></h3>
+											<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+											<a href="#0" class="rs-read-more">Read more</a>
+											<span class="rs-date">Apr 19 2016</span>
+										</div>
+									</div>
+
+									<div class="rs-timeline-block">
+										<div class="rs-timeline-icon">
+											<i class="fa fa-rocket"></i>
+										</div>
+
+										<div class="rs-timeline-content">
+											<h3>Opened 6 Offices Worldwide</h3>
+											<blockquote>
+												<p>For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.</p>
+												<small>From WWF's website</small>
+											</blockquote>
+											<span class="rs-date">Feb 26 2018</span>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- titmeline End -->
+					</div>
+				</div>
+			</div>
+			<!-- Services Section End -->
+
     <!-- About Us End -->
 
     <!-- Partner Start -->

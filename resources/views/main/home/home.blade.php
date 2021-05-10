@@ -25,13 +25,10 @@
                         <div class="display-table">
                             <div class="display-table-cell">
                                 <div class="container">
-                                    <h1 class="sl-title white-color">Best Team <br/>
-                                        For Growing Business</h1>
+                                    <h1 class="sl-title white-color">BAÏDA <br/>
+                                        ENGENEERING</h1>
                                     <div class="sl-desc white-color">
-                                        Quality First Consulting Service
-                                        Best Consulting Service By Expert Team <br/>
-                                        Provide Creative Business Thanking
-                                        Best Opportunity For Growing Business</div>
+                                        Le sceau de l'expertise</div>
                                     <div class="slider-botton">
                                         <ul>
                                             <li ><a href="#" class="readon border white-color">CONTACTEZ-NOUS</a></li>

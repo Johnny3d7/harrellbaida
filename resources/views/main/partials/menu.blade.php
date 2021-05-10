@@ -13,9 +13,8 @@
                         <li><a href="{{ route('presentation') }}">Présentation</a></li>
                         <li><a href="{{ route('valeurs-ethique') }}">Valeurs & Ethique</a></li>
                         <li><a href="{{ route('equipe') }}">Notre équipe</a></li>
-
                     </ul>
-                </li>                                        
+                </li>
                 <li class="{{ (request()->segment(1) == 'services') ? 'current-menu-item current_page_item' : '' }} menu-item-has-children"><a href="{{ route('services') }}" class="textmenu">Services</a>
                     <ul class="sub-menu">
                         <li><a href="{{ route('services') }}">Service 1</a></li>
@@ -23,6 +22,12 @@
                         <li><a href="{{ route('services') }}">Service 3</a></li>
                     </ul>
                 </li>
+
+                <li class="{{ (request()->segment(1) == 'boutique') ? 'current-menu-item current_page_item' : '' }} menu-item-has-children">
+                    <a href="{{ route('boutique') }}" class="textmenu">Notre boutique</a>
+                </li>
+
+
                 <li class="{{ (request()->segment(1) == 'galerie') ? 'current-menu-item current_page_item' : '' }} menu-item-has-children"><a href="{{ route('galerie') }}" class="textmenu">Galerie</a>
                     {{-- <ul class="sub-menu">
                         <li><a href="portfolio.html">Portfolio</a></li>
@@ -60,7 +65,7 @@
                     </ul>
                 </li>
                 <li><a href="testimonial.html">Testimonial</a></li> --}}
-                
+
                 <li class="{{ (request()->segment(1) == 'contact') ? 'current-menu-item current_page_item' : '' }} menu-item-has-children"><a href="{{ route('contact') }} " class="textmenu">Contact</a> </li>
             </ul>
        </nav>
